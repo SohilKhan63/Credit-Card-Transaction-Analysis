@@ -82,10 +82,9 @@ It’s a complete example of how a **data analyst transforms data into strategy.
 ---
 
 # Author
-Sohil Khan
-Mcom | DBF | Bcom
-Data Analyst | SQL & Python Enthusiast
-LinkedIn: linkedin.com/in/sohil-khan-b59281330
+- Sohil Khan
+- Data Analyst | SQL & Python Enthusiast
+- LinkedIn: linkedin.com/in/sohil-khan-b59281330
 
 
 
